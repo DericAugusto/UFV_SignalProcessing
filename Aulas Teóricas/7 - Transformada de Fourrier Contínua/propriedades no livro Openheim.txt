@@ -1,0 +1,2 @@
+Propriedades da série de Fourier de tempo contínuo
+pg. 121 do livro - 144 PDF

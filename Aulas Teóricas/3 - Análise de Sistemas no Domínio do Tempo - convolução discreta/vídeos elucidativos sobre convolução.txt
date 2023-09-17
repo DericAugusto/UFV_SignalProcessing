@@ -1,0 +1,23 @@
+Convolução e Resposta ao Impulso Unitário - Physics Videos by Eugene Khutoryansky
+https://www.youtube.com/watch?v=acAw5WGtzuk
+
+Graphical Convolution Integral - Electrical Engineering Authority
+https://www.youtube.com/watch?v=91ccIQ-ZVV8
+
+Graphical convolution example - NTS
+https://www.youtube.com/watch?v=zoRJZDiPGds
+
+Convolução - Kikipédia
+https://pt.wikipedia.org/wiki/Convolu%C3%A7%C3%A3o
+
+---------------------------------------------------------------------------------------------
+
+Ideia intuitiva do que é uma convolução: 
+
+Desmistificando a convolução (Convolution demystified) - Jugurta Montalvão
+(vídeo do "como colocar um elefante em uma garrafa")
+https://www.youtube.com/watch?v=nWHX_5gfMco
+
+What is convolution? This is the easiest way to understand - Discretised
+(vídeo dos fósforos como analogia pros fogos estourando que liberam fumaça)
+https://www.youtube.com/watch?v=QmcoPYUfbJ8
